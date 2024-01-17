@@ -9,10 +9,9 @@ Entrada:
     Um número inteiro n, representando o número do qual você deseja ver a tabuada.
 
 Saída:
-
-    O programa deve imprimir dez linhas, mostrando o resultado da multiplicação do 
-    número digitado com os números de 1 a 10, no formato n * i = resultado, onde n é o número 
-    digitado pelo usuário e i varia de 1 a 10.
+O programa deve imprimir dez linhas, mostrando o resultado da multiplicação do 
+número digitado com os números de 1 a 10, no formato n * i = resultado, onde n é o número 
+digitado pelo usuário e i varia de 1 a 10.
 """
 #essa é a minha versão
 base = int(input("Digite o numero que deseja saber a tabuada: "))
@@ -27,7 +26,7 @@ b8 = base * 8
 b9 = base * 9
 b10 = base * 10
 print(f"\nA tabuada numero {base} é: \n")
-print(f"{base} X 1 = {b}")
+print(f"{base} X 1 = {b1}")
 print(f"{base} X 2 = {b2}")
 print(f"{base} X 3 = {b3}")
 print(f"{base} X 4 = {b4}")
