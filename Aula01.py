@@ -1,6 +1,6 @@
 #Aula 01 do curso de automação por python
 
-#Exercicios 01 e 02 são referentes a essa aula
+#Exercicios 01, 02 e 03 são referentes a essa aula
 
 #este é um exemplo para que possa ser visto a variavel e seu tipo
 #type é o responsavel pela denominação doo tipo de variavel
